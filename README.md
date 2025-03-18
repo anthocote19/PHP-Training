@@ -1,6 +1,6 @@
 # PHP and JavaScript: Variable Manipulation and Conditions Exercises
 
-This project involves manipulating variables in PHP, performing mathematical operations, and using conditions with different messages depending on variable values. You will also learn how to interact with PHP and JavaScript within an HTML page.
+This project involves manipulating variables in PHP, performing mathematical operations, and using conditions with different messages depending on variable values. You will also learn how to interact with PHP and JavaScript within an HTML page. 
 
 ## 1. Displaying Information with PHP
 
