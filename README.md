@@ -14,7 +14,7 @@ Create an HTML page containing PHP code to display personal information using va
   $firstname = "Anthony"; 
   $lastname = "Cote";
   $age = 18;
-  $size = 1.75;
+  $size = 1.75; 
   $zipcode = "69000";
   
   echo "My first name and last name: " . $firstname . " " . $lastname . "<br>";
