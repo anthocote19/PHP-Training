@@ -11,7 +11,7 @@ Create an HTML page containing PHP code to display personal information using va
 
 ## **Example PHP Code**  
 <?php
-  $firstname = "Anthony"; 
+  $firstname = "Anthony";  
   $lastname = "Cote";
   $age = 18;
   $size = 1.75; 
