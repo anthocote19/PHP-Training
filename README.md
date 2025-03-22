@@ -9,7 +9,7 @@ This project involves manipulating variables in PHP, performing mathematical ope
 ## **Objective**  
 Create an HTML page containing PHP code to display personal information using variables and concatenation.
   
-## **Example PHP Code**  
+## **Example PHP Code**   
 <?php    
   $firstname = "Anthony";   
   $lastname = "Cote"; 
