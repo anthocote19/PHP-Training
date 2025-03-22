@@ -12,7 +12,7 @@ Create an HTML page containing PHP code to display personal information using va
 ## **Example PHP Code**  
 <?php   
   $firstname = "Anthony";   
-  $lastname = "Cote";
+  $lastname = "Cote"; 
   $age = 18;    
   $size = 1.75; 
   $zipcode = "69000";
