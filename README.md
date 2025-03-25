@@ -6,7 +6,7 @@ This project involves manipulating variables in PHP, performing mathematical ope
 
 # **Day 01 - Displaying Information with PHP**
 
-## **Objective**  
+## **Objective**   
 Create an HTML page containing PHP code to display personal information using variables and concatenation.
   
 ## **Example PHP Code**   
